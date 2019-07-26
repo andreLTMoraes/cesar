@@ -1,7 +1,9 @@
 {
-  "numero_casas": 3,
-  "token":"token_do_usuario",
-  "cifrado": "D Oljhlud Udsrvd Pduurp gd Axad Vdowrx Vreuh r Fdfkruur Fdqvdgr",
-  "decifrado": "",
-  "resumo_criptografico": "aqui vai o resumo"
+  "desafio":{
+    "numero_casas": 3,
+    "token":"token_do_usuario",
+    "cifrado": "D Oljhlud Udsrvd Pduurp gd Axad Vdowrx Vreuh r Fdfkruur Fdqvdgr",
+    "decifrado": "",
+    "resumo_criptografico": "aqui vai o resumo"
+  }
 }
